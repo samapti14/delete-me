@@ -1,0 +1,11 @@
+git status:
+
+if any file shows in red color thats means its not added yet
+
+git add filename
+
+git commit -m "message"
+
+git checkout -b file name
+
+git push origin branch name

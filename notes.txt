@@ -1,0 +1,90 @@
+uname -a
+
+sudo apt install git  - to download git
+
+cat /etc/os-release   - version details
+
+cd gitfilename/
+git clone
+git add filename
+git commit
+git push
+*****************************************************
+
+Step1: github- click on username-goto repository or 
++
+
+name-public-readme file-gitignore(not to update anything)-licence(none)
+
+
+connect linux machine with github:
+
+***linux page***
+ssh-keygen 
+cd ~/.ssh/
+ll
+cat id_rsa.pub 
+************
+***Github page***
+settings-[SSh-gpg key]-new gpg key-paste o/p of cat id_rsa.pub
+
+Repo-code-ssh-copycode
+
+***linux page***
+cd -
+git clone URL
+
+
+
+
+
+
+
+
+ssh-keygen 
+cd ~/.ssh/
+ll
+cat id_rsa
+cat id_rsa.pub 
+llcd -
+cd -
+git clone git@github.com:manikcloud/java-calculator-delete.git
+ll
+cd java-calculator-delete/
+vim README.md   - get inside the readme file
+git add .       - add file 
+git push        - push the changes
+git config --global user.email varunmanik1@gmail.com
+git config --global user.name varun-sl
+git push 
+git status
+git commit -am"hi"
+gitpush 
+git push 
+cd ..
+git clone git@github.com:manikcloud/DevOps-Tutorial.git
+ll
+cd DevOps-Tutorial/
+ll
+cd 2-Git/
+history 
+history | cut -c 8- > history.txt
+
+
+ 
+create file - touch 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git config --global user.name "name"

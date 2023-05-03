@@ -1,0 +1,42 @@
+how to create folder in git
+
+mkdir foldername (wont be in git)
+ls
+cd foldername
+ls -a
+
+git init(link the file in git) 
+
+ls -a
+
+
+
+
+*****************************************************************
+
+touch index.html
+ll
+vim index.html
+**(paste the html)**
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>
+First Web Page
+</title>
+</head>
+
+<body>
+Hello World!
+</body>
+</html>
+
+esc + :wq
+pwd   
+(you will get a url- open that url in browser- with /index.html)
+
+
+
+i have a doubt from the last class | while creating a html file | after vim index.html copied the html file 
+but then I was unable to came back to previos page
