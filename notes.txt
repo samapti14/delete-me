@@ -87,4 +87,4 @@ create file - touch
 
 
 
-git config --global user.name "name"
+
