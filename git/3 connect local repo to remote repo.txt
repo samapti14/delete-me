@@ -1,0 +1,13 @@
+connect local repo to remote repo
+
+create a  remote 
+
+follow the process: push an existing repo from the command line
+
+git remote add origin https://github.com/samapti14/delete-5.git
+git branch -M main
+git push -u origin main
+
+
+Error: "fatal: unable to access 'https://github.com/hyperion057/spring-repo.git/': Could not resolve host: github.com"
+=> git config --global --unset http.proxy

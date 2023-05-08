@@ -1,0 +1,41 @@
+you do not want to share a specify files or parts of your project
+
+it can be ignored by using a .gitignore file
+
+Example:
+
+1. create a file: 
+=> touch hide
+
+* it will create a file "hide" 
+
+2. To create a .gitignore file:
+=> touch .gitignore
+
+* it will create a file ".gitignore" 
+
+3. git status
+
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        hide/
+
+4. to hide the folder "hide"
+write the folder name "hide" in .gitignore file
+
+5. git status
+
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+ 

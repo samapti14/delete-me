@@ -1,0 +1,6 @@
+1.First download the below link (https://sourceforge.net/projects/touchforwindows/)
+
+2.Then extract that in downloads folder only 
+3.Then cut the file - local disk C:\ > Program files > Git > cmd > paste here
+
+Now your 'touch' command will work now.
