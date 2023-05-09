@@ -1,6 +1,0 @@
-=> git remote add origin https://github.com/samapti14/delete-me.git
-error: remote origin already exists.
-
-=> git remote remove origin
-
- it will remove the existing repo

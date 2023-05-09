@@ -1,6 +1,0 @@
-working dir -> staging area -> commit(git repo)
-
-direct commit command
-=> git commit -a -m "message"
-
-by direct commiting untracked file will not be commited(will not add in github)

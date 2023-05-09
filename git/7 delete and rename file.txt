@@ -1,9 +1,0 @@
-delete file:
-
-=> git fm <filename>
-
-** file must be staged->commited
-
-rename file:
-
-=> git mv <filename> <new filename>
